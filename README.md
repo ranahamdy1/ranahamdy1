@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
   
 - 💬 If you have any questions, feel free to reach out to me. I'm happy to help!
-- - 📫 How to reach me **ranahamdy269@gmail.com**
+- 📫 How to reach me **ranahamdy269@gmail.com**
 
 <br>
 
@@ -60,10 +60,10 @@
 <br>
 <p align="center">
   <a href="https://github.com/ranahamdy1">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=ranahamdy1&show_icons=true&hide_border=true&title_color=279EFF&amp&icon_color=279EFF&amp&text_color=FFFFFF&amp&bg_color=272829&count_private=true&include_all_commits=true"/>
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Rana Hamdy&show_icons=true&hide_border=true&title_color=279EFF&amp&icon_color=279EFF&amp&text_color=FFFFFF&amp&bg_color=272829&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/ranahamdy1">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranahamdy1&text_color=FFFFFF&bg_color=272829&title_color=279EFF&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana Hamdy&text_color=FFFFFF&bg_color=272829&title_color=279EFF&langs_count=15&layout=compact&hide_border=true" />
 
 <div align="center" >
   <a href="https://git.io/streak-stats">
