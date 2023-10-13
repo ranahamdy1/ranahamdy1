@@ -1,11 +1,4 @@
-<h1 align="center">Hey 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, what's up ?</h1>
-<!--     ***************************************************************************************************************************************** -->
-<p align="center">
-  <em>
-    This is me <b>,Rana Hamdy,</b> a Computer Sciense Student</b> undergraduate from <a href="https://www.mans.edu.eg/en"> <b>Mansoura University</b> , Egypt</a> . I'm an aspiring <b>Flutter developer and competitive programmer.</b> 
-  <br>
-  <b><i>✨ Trust the process ✨</i></b>    
-</p>
+<h1 align="center">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Rana</h1>
 <!--     ***************************************************************************************************************************************** -->
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
@@ -72,7 +65,3 @@
 </details>
 
 ---
-<!--     ***************************************************************************************************************************************** -->
-<h3>📭 Connect with me : </h3>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranahamdy269@gmail.com)
