@@ -63,5 +63,3 @@
     <img src="https://streak-stats.demolab.com?user=%40ranahamdy1&theme=gruvbox-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=272829&stroke=F94C10&ring=F94C10&fire=F94C10&currStreakNum=279EFF&sideNums=279EFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" alt="GitHub Streak">
 </div>
 </details>
-
----
