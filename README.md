@@ -37,11 +37,6 @@
 <a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></a>
 <a href="https://wwwcplusplus.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></a>
-<a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
-<a href="https://www.arduino.cc/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"></a>
-<a href="https://www.mathworks.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a>
-<a href="https://jupyter.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg"></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
 </details>
 <br>
 
