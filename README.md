@@ -32,7 +32,6 @@
 <a href="https://www.getpostman.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"></a>
 <a href="https://wwwcplusplus.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></a>
 </details>
