@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I'm Rana Hamdy</h1>
 <!--     ***************************************************************************************************************************************** -->
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 <!--     ***************************************************************************************************************************************** -->
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranahamdy1&label=Profile%20views&color=0e75b6&style=flat" alt="ranahamdy1" /> </p>
@@ -9,10 +9,8 @@
   <img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
   
-- 🌱 I’m currently learning **Mobile Apps Development Using Flutter**
-  
+- 🌱 I’m a **Mobile Apps Developer**, passionate about creating innovative and user-friendly applications.
 - 👯 I’m looking to collaborate on **Open Source Projects**
-  
 - 💬 If you have any questions, feel free to reach out to me. I'm happy to help!
 - 📫 How to reach me **ranahamdy269@gmail.com**
 
