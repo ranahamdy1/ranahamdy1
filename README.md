@@ -9,7 +9,7 @@
   <img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
   
-- 🌱 I’m a **Mobile Apps Developer**, passionate about creating innovative and user-friendly applications.
+- 🌱 I’m a **Mobile Apps Developer**.
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 If you have any questions, feel free to reach out to me. I'm happy to help!
 - 📫 How to reach me **ranahamdy269@gmail.com**
