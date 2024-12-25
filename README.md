@@ -11,8 +11,7 @@
 </p>
 
 <h3>About Me:</h3>
-<img align="right" width="250" height="200" src="https://github.com/user-attachments/assets/a3e2474c-bb7e-47b5-a599-189f06e09345" />
-
+  <img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 <ul>
   <li>✨ I’m a <strong>Mobile Apps Developer</strong>.</li>
   <li>👯🏻‍♀️ I’m looking to collaborate on <strong>Open Source Projects</strong>.</li>
