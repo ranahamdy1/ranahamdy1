@@ -16,9 +16,8 @@
   <li>✨ I’m a <strong>Mobile Apps Developer</strong>.</li>
   <li>👯🏻‍♀️ I’m looking to collaborate on <strong>Open Source Projects</strong>.</li>
   <li>😊 If you have any questions, feel free to contact me. I'm happy to help!</li>
-  <li>📧 How to reach me: <strong>ranahamdy269@gmail.com</strong></li>
+  <li>📧 How to reach me: <a href="mailto:ranahamdy269@gmail.com"><strong>ranahamdy269@gmail.com</strong></a></li>
 </ul>
-
 
 ---
 
