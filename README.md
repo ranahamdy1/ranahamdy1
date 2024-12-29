@@ -22,7 +22,7 @@
 ---
 
 <details>
-  <summary><h3>⚡ Tech Stack:</h3></summary>
+  <summary><h3>💻 Tech Stack:</h3></summary>
   <br>
   <a href="https://www.flutter.dev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a>
   <a href="https://dart.dev/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"></a>
@@ -34,10 +34,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></a>
 </details>
 
----
-
 <details>
-  <summary><h3>🚀 GitHub Stats:</h3></summary>
+  <summary><h3>📈 GitHub Stats:</h3></summary>
   <br>
   <p align="center">
     <a href="https://github.com/ranahamdy1">
@@ -54,6 +52,8 @@
   </div>
 </details>
 
+<!--
+
 ---
 
 <div align="center">
@@ -61,3 +61,5 @@
   <p align="center"><i><b>Refresh the page to load a new joke</b></i></p>
   <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Random Joke">
 </div>
+
+-->
