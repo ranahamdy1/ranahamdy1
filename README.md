@@ -7,11 +7,12 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ranahamdy1&label=Profile%20views&color=0e75b6&style=flat" alt="ranahamdy1" />
+<img src="https://komarev.com/ghpvc/?username=ranahamdy1&label=Profile%20views&color=0e75b6&style=flat" alt="ranahamdy1" />
 </p>
 
+<img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
 <h3>About Me:</h3>
-  <img align="right" widht="300" height="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 <ul>
   <li>✨ I’m a <strong>Mobile Apps Developer</strong>.</li>
   <li>👯🏻‍♀️ I’m looking to collaborate on <strong>Open Source Projects</strong>.</li>
