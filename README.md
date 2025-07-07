@@ -25,15 +25,16 @@
 <details>
   <summary><h3>💻 Tech Stack:</h3></summary>
   <br>
-  <a href="https://www.flutter.dev" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a>
-  <a href="https://dart.dev/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg"></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg"></a>
-  <a href="https://www.getpostman.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
-  <a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a>
-  <a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-  <a href="https://wwwcplusplus.com/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"></a>
+  <a href="https://www.flutter.dev" target="_blank"> <img height="30" width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter">  </a>
+  <a href="https://dart.dev/" target="_blank"> <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg" alt="Dart"> </a>
+  <a href="https://developer.android.com/studio" target="_blank">   <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="Android Studio">  </a>
+  <a href="https://www.getpostman.com/" target="_blank"> <img height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"> </a>
+  <a href="https://firebase.google.com/" target="_blank">   <img height="30" width="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">  </a>
+  <a href="https://git-scm.com/" target="_blank">    <img height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"> </a>
+  <a href="https://www.cplusplus.com/" target="_blank"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++">  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#"> </a>
 </details>
+
 
 <details>
   <summary><h3>📈 GitHub Stats:</h3></summary>
