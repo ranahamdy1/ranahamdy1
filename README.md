@@ -53,6 +53,7 @@
   </div>
 </details>
 
+<!--
 <details>
   <summary><h3>📱 My Social Media:</h3></summary>
   <br>
@@ -65,6 +66,7 @@
     </a>
   </div>
 </details>
+--> 
 
 <!--
 
