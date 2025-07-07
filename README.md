@@ -18,8 +18,6 @@
   <li>👯🏻‍♀️ I’m looking to collaborate on <strong>Open Source Projects</strong>.</li>
   <li>😊 If you have any questions, feel free to contact me. I'm happy to help!</li>
   <li>📧 How to reach me: <a href="mailto:ranahamdy269@gmail.com"><strong>ranahamdy269@gmail.com</strong></a></li>
-  <li>🖥 You can know my experiences through <a href="https://drive.google.com/file/d/1LKCEWij3h8oQbKv-2W5lwlx-vmkmoH2Z/view?usp=sharing" target="_blank"><strong>My CV</strong></a>.</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://youtube.com/playlist?list=PLya1uPqO46n69GlVItHmpI5ek19TclTgW&si=miuph98LHuVDkEWP" target="_blank"><strong>My YouTube</strong></a>.</li>
 </ul>
 
 ---
