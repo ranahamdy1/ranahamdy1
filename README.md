@@ -9,7 +9,7 @@
 <h3>About Me:</h3>
 <ul>
   <li>✨ I’m a <strong>Software Engineer</strong>.</li>
-  <li>👯🏻‍♀️ Excited to collaborate on <strong style="color:#800080;">Open Source Projects</strong> and contribute to creative solutions.</li>
+  <li>👯🏻‍♀️ Excited to collaborate on <strong style="color:#800080;">Open Source Projects</strong>.</li>
   <li>😊 If you have any questions, just ask me—I'm happy to help!</li>
   <li>📧 How to reach me: <a href="mailto:ranahamdy269@gmail.com"><strong>ranahamdy269@gmail.com</strong></a></li>
 </ul>
