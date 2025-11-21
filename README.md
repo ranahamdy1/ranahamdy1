@@ -31,11 +31,11 @@
   <a href="https://laravel.com/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel"></a>
   <a href="https://www.mysql.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap"></a>
+  <a href="https://getcomposer.org/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer"></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></a>
   <a href="https://www.figma.com/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"></a>
+  <a href="https://gitlab.com/" target="_blank"><img height="30" width="30" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="GitLab"></a>
   <a href="https://github.com/" target="_blank"> <img height="30" width="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a>
-
-
 
 <h3>📈 GitHub Stats:</h3>
 <br>
